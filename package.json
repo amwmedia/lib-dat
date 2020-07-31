@@ -1,0 +1,23 @@
+{
+  "name": "lib-dat",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amwmedia/lib-dat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amwmedia/lib-dat/issues"
+  },
+  "homepage": "https://github.com/amwmedia/lib-dat#readme",
+  "dependencies": {
+    "extract-dat": "^1.0.0"
+  }
+}
